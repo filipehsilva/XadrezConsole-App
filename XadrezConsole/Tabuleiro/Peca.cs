@@ -1,4 +1,4 @@
-﻿namespace XadrezConsole.Tabuleiro
+﻿namespace tabuleiro
 {
     internal class Peca
     {
